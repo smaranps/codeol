@@ -1,0 +1,50 @@
+.anim{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi778QVdE5z5ToJtlM3E1LXs8al67L64y2_A&usqp=CAU") ;
+    animation-name:abc ;
+    height: 70rem;
+    background-size: cover;
+animation-duration: 15s;
+animation-iteration-count: infinite;
+animation-direction: alternate-reverse ;
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+
+@keyframes abc{
+    0%{background-image: url("https://skift.com/wp-content/uploads/2022/12/The_Ritz_Carlton_Paradise_Valley__The_Palmeraie-scaled-1.jpg");}
+25%{background-image: url("https://theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg");}
+50%{background-image: url("https://s2.ppllstatics.com/surinenglish/www/multimedia/2023/03/01/_angsana-marbella_2_52714545097_o.jpg");}
+75%{background-image: url("https://www.ca.kayak.com/rimg/himg/6f/cd/f6/ice-214735714-70089807_3XL-613901.jpg?width=1366&height=768&crop=true");}
+100%{background-image: url("https://www.pocketwanderings.com/wp-content/uploads/2022/04/Six-Senses-Hilltop-Swimming-Pool.jpg") ;}
+}
+.move{
+    text-align: right;
+
+}
+.a{
+    background-color: gainsboro;
+    opacity: 0.9;
+}
+.form-row{
+color: black;
+}
+.form-group{
+    margin-left: 300px;
+}
+.btn{
+    margin-left: 550px;
+}
+.form-val{
+    color: red;
+    font-size: 12px;
+    margin-left: 500px;
+}
+#spa{
+    text-align: center;
+    margin-left: 500px;
+
+}
+.se{
+    font-size: 1rem;
+}
